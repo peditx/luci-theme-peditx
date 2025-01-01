@@ -25,8 +25,8 @@ config navbar
 	option enable 'Enable'
 	option line '3'
 	option newtab 'No'
-	option icon '/www/luci-static/peditx/gaya/icon/navbar/openclash.png'
-	option address '/cgi-bin/luci/admin/services/openclash'
+	option icon '/www/luci-static/peditx/gaya/icon/navbar/packages.png'
+	option address '/cgi-bin/luci/admin/system/opkg'
 
 config navbar
 	option name 'PassWall'
@@ -50,4 +50,4 @@ config navbar
 	option line '6'
 	option newtab 'No'
 	option icon '/www/luci-static/peditx/gaya/icon/navbar/network.png'
-	option address '/cgi-bin/luci/admin/network/network'
+	option address '/cgi-bin/luci/admin/system/reboot'
