@@ -53,6 +53,6 @@ PeDitX یک تم طراحی شده برای OpenWrt است که مخصوصاً �
 این تم بر اساس [Bootstrap Theme](https://github.com/twbs/bootstrap) طراحی شده است.
 
 
-© 2018–2024 PeDitX. All rights reserved.  
+© 2018–2025 PeDitX. All rights reserved.  
 For support or inquiries, join us on [Telegram](https://t.me/peditx).
 
