@@ -53,6 +53,6 @@ This theme has not been tested on the **LEDE** version.
 This theme is based on the [Bootstrap Theme](https://github.com/twbs/bootstrap).
 
 
-© 2018–2024 PeDitX. All rights reserved.  
+© 2018–2025 PeDitX. All rights reserved.  
 For support or inquiries, join us on [Telegram](https://t.me/peditx).
 
