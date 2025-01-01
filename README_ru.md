@@ -53,6 +53,6 @@ PeDitX — это тема, специально разработанная дл
 Эта тема основана на [Bootstrap Theme](https://github.com/twbs/bootstrap).
 
 
-© 2018–2024 PeDitX. All rights reserved.  
+© 2018–2025 PeDitX. All rights reserved.  
 For support or inquiries, join us on [Telegram](https://t.me/peditx).
 
