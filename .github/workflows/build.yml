@@ -1,7 +1,7 @@
 name: Build and Release luci-theme-peditx
 
 on:
-  #push:
+  push:
     branches:
       - main
   workflow_dispatch:
