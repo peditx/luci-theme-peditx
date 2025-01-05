@@ -1,32 +1,32 @@
  /* Base */
  @font-face {
  	font-family: "Inter-Regular";
- 	src: url('/luci-static/alpha/fonts/Inter-Regular.woff2');
+ 	src: url('/luci-static/peditx/fonts/Inter-Regular.woff2');
  }
 
  @font-face {
  	font-family: "Inter-Medium";
- 	src: url('/luci-static/alpha/fonts/Inter-Medium.woff2');
+ 	src: url('/luci-static/peditx/fonts/Inter-Medium.woff2');
  }
 
  @font-face {
  	font-family: "Inter-Black";
- 	src: url('/luci-static/alpha/fonts/Inter-Black.woff2');
+ 	src: url('/luci-static/peditx/fonts/Inter-Black.woff2');
  }
 
  @font-face {
  	font-family: "Inter-Bold";
- 	src: url('/luci-static/alpha/fonts/Inter-Bold.woff2');
+ 	src: url('/luci-static/peditx/fonts/Inter-Bold.woff2');
  }
 
  @font-face {
  	font-family: "Quicksand-Bold";
- 	src: url('/luci-static/alpha/fonts/Quicksand-Bold.ttf');
+ 	src: url('/luci-static/peditx/fonts/Quicksand-Bold.ttf');
  }
 
  @font-face {
  	font-family: argon;
- 	src: url('/luci-static/alpha/fonts/argon.woff');
+ 	src: url('/luci-static/peditx/fonts/argon.woff');
 
  }
 
