@@ -9,7 +9,7 @@ config navbar
 	option enable 'Enable'
 	option line '1'
 	option newtab 'No'
-	option icon '/www/luci-static/peditx/gaya/icon/navbar/overview.png'
+	option icon '/www/luci-static/peditx/peds/icon/navbar/overview.png'
 	option address '/cgi-bin/luci/admin/status/overview'
 
 config navbar
@@ -17,7 +17,7 @@ config navbar
 	option enable 'Enable'
 	option line '2'
 	option newtab 'No'
-	option icon '/www/luci-static/peditx/gaya/icon/navbar/terminal.png'
+	option icon '/www/luci-static/peditx/peds/icon/navbar/terminal.png'
 	option address '/cgi-bin/luci/admin/services/ttyd'
 
 config navbar
@@ -25,7 +25,7 @@ config navbar
 	option enable 'Enable'
 	option line '3'
 	option newtab 'No'
-	option icon '/www/luci-static/peditx/gaya/icon/navbar/packages.png'
+	option icon '/www/luci-static/peditx/peds/icon/navbar/packages.png'
 	option address '/cgi-bin/luci/admin/system/opkg'
 
 config navbar
@@ -33,7 +33,7 @@ config navbar
 	option enable 'Enable'
 	option line '4'
 	option newtab 'No'
-	option icon '/www/luci-static/peditx/gaya/icon/navbar/passwall.png'
+	option icon '/www/luci-static/peditx/peds/icon/navbar/passwall.png'
 	option address '/cgi-bin/luci/admin/services/passwall2'
 
 config navbar
@@ -41,7 +41,7 @@ config navbar
 	option enable 'Enable'
 	option line '5'
 	option newtab 'No'
-	option icon '/www/luci-static/peditx/gaya/icon/navbar/modem.png'
+	option icon '/www/luci-static/peditx/peds/icon/navbar/modem.png'
 	option address '/cgi-bin/luci/admin/network/wireless'
 
 config navbar
@@ -49,5 +49,5 @@ config navbar
 	option enable 'Enable'
 	option line '6'
 	option newtab 'No'
-	option icon '/www/luci-static/peditx/gaya/icon/navbar/network.png'
+	option icon '/www/luci-static/peditx/peds/icon/navbar/network.png'
 	option address '/cgi-bin/luci/admin/system/reboot'
