@@ -7,19 +7,19 @@
   "theme_color": "#4CAF50",
   "icons": [
     {
-      "src": "/luci-static/peditx/gaya/icon/apple/icon-192x192.png",
+      "src": "/luci-static/peditx/peds/icon/apple/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/luci-static/peditx/gaya/icon/apple/icon-512x512.png",
+      "src": "/luci-static/peditx/peds/icon/apple/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/luci-static/peditx/gaya/icon/apple/apple-touch-icon.png",
+      "src": "/luci-static/peditx/peds/icon/apple/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
     }
