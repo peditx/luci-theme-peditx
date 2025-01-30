@@ -47,7 +47,7 @@ jobs:
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: v1.1.2
+          tag_name: v1.2.2
           name: luci-theme-peditx release - ${{env.timestamp}}
           body: latest release of luci-theme-peditx theme for OpenWrt.
           files: sdk/artifacts/luci-theme-peditx_*.ipk
