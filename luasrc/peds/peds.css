@@ -919,8 +919,6 @@
  	background-size: 25px;
  }
 
- }
-
  .main>.main-left>.nav>.slide>[data-title="Themes"]:before {
 	position: absolute;
 	right: 14px;
